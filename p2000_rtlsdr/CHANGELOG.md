@@ -1,3 +1,8 @@
+## 1.0.10
+-Uodate timezone depreciation
+- Eigen update
+<!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+
 ## 1.0.9
 - Eigen update
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
